@@ -1,0 +1,5 @@
+start_date|end_date|name|hours_worked|hr_rate|tax_rate|gross_pay|income_tax|net_pay
+2020-01-01|2020-01-01|brett|40.0|45.0|12.0|1800.0|216.0|1584.0
+1995-01-01|1996-02-02|test1|56.0|5.0|5.0|280.0|14.0|266.0
+2020-10-20|2020-10-20|brett snuggs|5.0|5.0|5.0|25.0|1.25|23.75
+
