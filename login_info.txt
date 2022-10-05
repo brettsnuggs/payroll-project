@@ -1,4 +1,0 @@
-user_id|password|auth_code
-bsnuggs|hello|admin
-bretts|world|user
-new_user|helloworld|admin
